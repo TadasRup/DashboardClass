@@ -8,7 +8,7 @@
   left: 0;
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 200px;
+  padding-top: 50px;
   text-align: center;
   border-radius: 50px 0px 0px 50px;
   
@@ -40,4 +40,13 @@
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 } 
+
+.img {
+  margin-bottom: 90px;
+  height: 25px;
+  flex-direction: column;
+  display: flex;
+  margin-left: 30px;
+}
+
 
